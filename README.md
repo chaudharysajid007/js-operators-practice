@@ -20,4 +20,4 @@ A hands-on JavaScript exercise designed to demonstrate and test core JavaScript 
 1. Clone the repository:
    ```bash
    git clone [https://github.com/chaudharysajid007/js-operators-practice.git](https://github.com/chaudharysajid007/js-operators-practice.git)
-   
+   ```
